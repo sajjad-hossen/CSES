@@ -4,6 +4,9 @@
 <li>
 
 [Distinct Numbers](Distinct_Numbers.cpp)
+</li>
+<li>
+  
 [Apartments](Apartments.cpp)
 
 </li>
