@@ -12,6 +12,6 @@
 </li>
 <li>
   
-  [Ferris Wheel](Ferris_Wheel.cpp)
+  [Ferris Wheel](Ferris_Wheel.cpp)  >  [Problem link](https://cses.fi/problemset/task/1090/)
 </li>
 </ol>
