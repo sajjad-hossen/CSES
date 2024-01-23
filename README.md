@@ -2,7 +2,7 @@
 
 | Problem Type | Number Solved/Total Problem |
 |-------------| --------------------|
-| __Sorting and Searching__ |     __3/35__ |
+| __Sorting and Searching__ |     __4/35__ |
 
 # Sorting and Searching
 <ol>
@@ -23,5 +23,10 @@
 <li>
   
   [Concert Ticketsl](Concert_Tickets.cpp)  >  [Problem link](https://cses.fi/problemset/task/1090/)
+</li>
+
+<li>
+  
+  [Restaurant Customers](Restaurant_Customers.cpp)  >  [Problem link](https://cses.fi/problemset/task/1619)
 </li>
 </ol>
