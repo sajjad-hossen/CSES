@@ -2,7 +2,7 @@
 
 | Problem Type | Number Solved/Total Problem |
 |-------------| --------------------|
-| __Sorting and Searching__ |     __4/35__ |
+| __Sorting and Searching__ |     __5/35__ |
 
 # Sorting and Searching
 <ol>
@@ -32,6 +32,11 @@
 
   
   [Movie Festival](Movie_Festival.cpp)  >  [Problem link](https://cses.fi/problemset/task/1629/)
+</li>
+<li>
+
+  
+  [Sum of Two Values](Sum_of_two_Values.cpp)  >  [Problem link](https://cses.fi/problemset/task/1640/))
 </li>
 
 </ol>
