@@ -41,7 +41,12 @@
 <li>
 
   
-  [Sum of Two Values](MaximumSubarraySum.cpp)  >  [Problem link](https://cses.fi/problemset/task/1643/))
+  [Maximum Subarray Sum](MaximumSubarraySum.cpp)  >  [Problem link](https://cses.fi/problemset/task/1643/))
+</li>
+<li>
+
+  
+  [Stick Lengths](Stick_Lengths.cpp)  >  [Problem link](https://cses.fi/problemset/task/1074))
 </li>
 
 </ol>
