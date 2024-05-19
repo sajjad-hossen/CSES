@@ -48,5 +48,10 @@
   
   [Stick Lengths](Stick_Lengths.cpp)  >  [Problem link](https://cses.fi/problemset/task/1074))
 </li>
+<li>
+
+  
+  [Missing Coin Sum](Missing_Coin_Sum.cpp)  >  [Problem link](https://cses.fi/problemset/task/2183/))
+</li>
 
 </ol>
