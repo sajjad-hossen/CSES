@@ -53,5 +53,10 @@
   
   [Missing Coin Sum](Missing_Coin_Sum.cpp)  >  [Problem link](https://cses.fi/problemset/task/2183/))
 </li>
+<li>
+
+  
+  [Collecting Numbers](Collecting_Numbers.cpp)  >  [Problem link](https://cses.fi/problemset/task/2216/))
+</li>
 
 </ol>
