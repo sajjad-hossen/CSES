@@ -56,7 +56,7 @@
 <li>
 
   
-  [Collecting Numbers](Collecting_Numbers.cpp)  >  [Problem link](https://cses.fi/problemset/task/2216/))
+  [Collecting Numbers](CN.cpp)  >  [Problem link](https://cses.fi/problemset/task/2216/))
 </li>
 
 </ol>
