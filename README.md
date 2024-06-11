@@ -58,5 +58,10 @@
   
   [Collecting Numbers](CN.cpp)  >  [Problem link](https://cses.fi/problemset/task/2216/))
 </li>
+<li>
+
+  
+  [Collecting Numbers II](Collecting_Numbers_II.cpp)  >  [Problem link](https://cses.fi/problemset/task/2217/)
+</li>
 
 </ol>
